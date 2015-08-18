@@ -34,3 +34,4 @@ HISTORY
 [ ] While the Arma Life community in general has an exemplary track record of honesty and maturity, we're just not feeling that vibe here
 [ ] Post like this are a weekly occurrence around here
 [ ] Forum regulars habitually rip these types of threads... well... to threads :)  What makes you think this one will be spared?
+
